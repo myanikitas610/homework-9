@@ -1,0 +1,4 @@
+1. SQL or Structured Query Language creates and manipulates databases. Relational databases stores data in rows and columns that connect to other items in the database.
+
+4. PDOs represent and manage a connection to the database. Also they set up a connection and then run queries through it.
+Prepare statements are necessacry to prevent SQL injections and XSS attacks.
